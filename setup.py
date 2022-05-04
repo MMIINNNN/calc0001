@@ -7,7 +7,7 @@ setuptools.setup(
   description='oss-dev my calculator'
   autuor='minseokkim'
   autuor_email='1810091@donga.ac.kr'
-url= "http://github.com/MMINNNN/calc0001"
+  url= "https://github.com/MMIINNNN/calc0001/archive/refs/tags/v1.0.0.zip"
   install_requires=['pytest'],
   long_description = 'oss-dev calculator python module',
   long_description_content_type = 'text/markdawn',
